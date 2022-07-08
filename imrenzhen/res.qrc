@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buptmap201608.png</file>
+        <file>shahemap.png</file>
+    </qresource>
+</RCC>
